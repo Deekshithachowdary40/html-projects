@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>tableform</title>
+        <body>
+            <table border =3>
+                <tr>
+                    <th>team</th>
+                    <th>city</th>
+                    <th>home ground</th>
+                    <th>dubet</th>
+                    <th>owner</th>
+                </tr>
+                <tr>
+                    <th>csk</th>
+                    <th>chennai,tamilnadu</th>
+                    <th>k.sijiiji</th>
+                    <th>2008</th>
+                    <th>N.murthy</th>
+                </tr>
+                <tr>
+                    <th>delhi captals</th>
+                    <th>nwe delhi</th>
+                    <th>j.akshitha</th>
+                    <th>    </th>
+                    <th><ol type="circle">
+                        <li>ssss</li>
+                        <li>mmmm</li></th>
+                </tr>
+                <tr>
+                    <th>gujarat titans</th>
+                    <th>gujarat</th>
+                    <th>renu</th>
+                    <th>2004</th>
+                    <th><ol type="circle">
+                        <li>ssss</li>
+                        <li>aba</th>
+                </tr>
+                <tr>
+                    <th>kolkata</th>
+                    <th>klk</th>
+                    <th>suma</th>
+                    <th>2006</th>
+                    <th><ol type="circle">
+                        <li>ssss</li>
+                        <li>mmmmm</li></th>
+                </tr>
+                <tr>
+                    <th>lucknow</th>
+                    <th>lucknow</th>
+                    <th>mnb</th>
+                    <th>2014</th>
+                    <th><ol type="1">
+                        <li>ssss</li>
+                        <li>mmm</li></th>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
